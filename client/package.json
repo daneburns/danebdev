@@ -1,0 +1,24 @@
+{
+  "name": "with-tailwindcss",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sanity/client": "^2.2.6",
+    "autoprefixer": "^10.0.4",
+    "lodash": "^4.17.20",
+    "next": "latest",
+    "postcss": "^8.1.10",
+    "react": "^16.14.0",
+    "react-dom": "^16.13.1",
+    "react-spring": "^8.0.27",
+    "react-three-fiber": "^5.3.18",
+    "react-use": "^17.1.1",
+    "tailwindcss": "^2.0.2",
+    "three": "^0.125.2"
+  }
+}
